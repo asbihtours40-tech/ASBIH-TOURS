@@ -1,0 +1,6 @@
+{
+  "name": "ASBIH-TOURS",
+  "description": "Transport touristique et transferts privés au Maroc. Transferts aéroports et ports, circuits du Nord et accompagnement 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
