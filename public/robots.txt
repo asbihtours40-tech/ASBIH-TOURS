@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asbih-tours.com/sitemap.xml
